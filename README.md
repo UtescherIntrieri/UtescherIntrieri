@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiUtescherIntrieri=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=UtescherIntrieri)](https://github.com/UtescherIntrieri/github-readme-stats)
 
 <!--
 **UtescherIntrieri/UtescherIntrieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
