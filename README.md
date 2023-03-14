@@ -42,7 +42,7 @@
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jose-almir/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/UtescherIntrieri/count.svg?"  />
 </div>
 
 ###
