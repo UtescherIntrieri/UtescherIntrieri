@@ -21,7 +21,7 @@
 <br>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px" align="right">
+<img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="80px" align="right">
 <!--
 **UtescherIntrieri/UtescherIntrieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
