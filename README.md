@@ -1,3 +1,8 @@
+### Hihii!!
+
+I'm Nai'a and i'm studying to become a FullStack Dev.
+  <br>
+  <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UtescherIntrieri&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtescherIntrieri&layout=compact&theme=dracula" height="150" alt="languages graph" />
@@ -13,6 +18,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" width="56" alt="c# logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="56" alt="ruby logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="56" alt="vscode logo" />
+</div>
+  <br>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-naiabreu-blue?logo=linkedin)](https://www.linkedin.com/in/naiabreu)
 </div>
 <br>
 <br>
